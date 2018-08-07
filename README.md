@@ -1,4 +1,4 @@
-# Blueinno2 ![Version](https://img.shields.io/badge/Arduino%20IDE-1.5.8-brightgreen.svg) ![Machine](https://img.shields.io/badge/Machine-BlueInno2-brightgreen.svg)
+# Blueinno2 ![Version](https://img.shields.io/badge/Arduino%20IDE-1.5.8-brightgreen.svg) ![Machine](https://img.shields.io/badge/Machine-BlueInno2-brightgreen.svg) ![](https://img.shields.io/badge/Code%20Statue-Close-red.svg)
 This repository is code written using Blueinno 2. With this code, you can use Blueinno 2 for a simple project.
 
 # Installation
