@@ -1,3 +1,2 @@
 # Blueinno2
- This repository uses BlueInno 2 and shares the source code written.
-TEST
+This repository is code written using Blueinno 2. With this code, you can use Blueinno 2 for a simple project.
